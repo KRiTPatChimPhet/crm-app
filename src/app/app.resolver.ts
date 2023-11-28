@@ -14,8 +14,8 @@ export const initialDataResolver: ResolveFn<any> = (
   const userService = inject(UserService);
   const contactId = userService.contactId;
   console.log('contact id --> ', contactId);
-  if (contactId) {
-    return forkJoin({});
-  }
-  return of({});
+  // if (contactId) {
+  //   return forkJoin({});
+  // }
+  // return of({});
 };

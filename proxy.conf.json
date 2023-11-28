@@ -1,0 +1,12 @@
+{
+  "/api/auth": {
+    "target": "https://service-sandbox.thamturakit.com",
+    "secure": false,
+    "changeOrigin": true
+  },
+  "/api/contacts": {
+    "target": "https://service-sandbox.thamturakit.com",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
