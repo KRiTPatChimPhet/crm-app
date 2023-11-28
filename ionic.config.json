@@ -1,0 +1,7 @@
+{
+  "name": "crm-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
