@@ -1,0 +1,6 @@
+{
+    "appName": "${APP_NAME}",
+    "apiUrl": "${API_URL}",
+    "imgUrl": "${IMG_URL}",
+    "liffId": "${LIFF_ID}"
+}
